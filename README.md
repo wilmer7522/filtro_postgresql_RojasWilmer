@@ -22,8 +22,8 @@
   * Disponer de una base de datos creada.
   * buscar los archivos .sql suministrados en el repositorio.
   * Abrir pgAdmin
-  * seleccionar la carpeta ![](foto2.png)
-  * seelcionar el archivo db.sql ![](foto3)
+  * seleccionar la carpeta ![](img/foto2.png)
+  * seelcionar el archivo db.sql ![](img/foto3.png)
 
 
 
